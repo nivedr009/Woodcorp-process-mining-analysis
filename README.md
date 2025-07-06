@@ -43,8 +43,8 @@ Dashboard Snapshots
 |  Insight  |  Screenshot |
 |-----------|---------------|
 | Late Delivery Root Causes | `late-deliveries-insight.png` |
-| Automation vs. Non-Automation Impact | `automation-impact.png` |
-| Monthly Trends & Volume Impact | `monthly-trend-analysis.png` |
+|  Late Delivery Impact | `late-delivery-impact.png` |
+| Final Recommendation | `Final-recommendation .png` |
 
 All dashboards were built and analyzed within **Celonis EMS**, with an emphasis on simplicity and storytelling.
 
