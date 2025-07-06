@@ -85,7 +85,7 @@ Files in this Repository
 | `/presentation/` | Final project presentation (PPT) |
 | `/screenshots/` | Visual dashboards extracted from Celonis |
 | `README.md` | This documentation file |
-| `business-case-summary.pdf` |
+| `business-case-summary.pdf` | Summary of the Project |
 
 
 Let’s Connect!
